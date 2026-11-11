@@ -13,6 +13,10 @@
   <a href="#conectemos"><img src="./assets/nav-conectemos.svg" width="156" height="50" alt="Conectemos" /></a>
 </p>
 
+<p align="center">
+  <a href="https://karen-cruz-portfolio.onrender.com"><img src="./assets/nav-portafolio.svg" width="300" height="64" alt="Explora mi portafolio interactivo" /></a>
+</p>
+
 ## Mi universo
 
 **Desarrolladora de software con enfoque full stack.** Me gusta conectar interfaces, lógica y datos para resolver necesidades reales.
