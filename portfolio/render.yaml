@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: karen-cruz-portfolio
+    runtime: static
+    buildCommand: echo "Portfolio listo"
+    staticPublishPath: .
+    headers:
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /*
+        name: Referrer-Policy
+        value: strict-origin-when-cross-origin
