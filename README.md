@@ -12,17 +12,20 @@
 
 ## Sobre mí
 
-Soy **tecnóloga en Desarrollo de Software de la Universidad Surcolombiana**, con enfoque **full stack**. Me gusta trabajar tanto en lo que las personas ven como en la lógica y los datos que hacen funcionar una aplicación.
+**Desarrolladora de software con enfoque full stack.** Me gusta conectar interfaces, lógica y datos para resolver necesidades reales.
 
-He trabajado en proyectos de facturación electrónica, sitios web empresariales, plataformas para investigación y herramientas académicas. Me interesa convertir necesidades reales en soluciones claras y prácticas, y seguir creciendo con cada proyecto.
+<details>
+<summary><b>Conoce mi recorrido</b></summary>
+
+Soy tecnóloga en Desarrollo de Software de la Universidad Surcolombiana, graduada en 2026. He trabajado en proyectos de facturación electrónica, sitios web empresariales, plataformas para investigación y herramientas académicas. Me interesa aprender, construir soluciones útiles y seguir creciendo con cada proyecto.
+
+</details>
 
 <p align="center">
   <img src="./assets/focus.svg" width="100%" alt="Frontend: interfaces y experiencias prácticas. Backend: lógica, autenticación y flujos de información. Datos: organización y persistencia." />
 </p>
 
 ## Tecnologías
-
-Herramientas que he aplicado en mis proyectos:
 
 <p>
   <img src="https://img.shields.io/badge/Python-191b2c?style=for-the-badge&amp;logo=python&amp;logoColor=b9a0ff" alt="Python" />
@@ -33,8 +36,6 @@ Herramientas que he aplicado en mis proyectos:
   <img src="https://img.shields.io/badge/Render-191b2c?style=for-the-badge&amp;logo=render&amp;logoColor=78efd2" alt="Render" />
 </p>
 
-Mis áreas de interés incluyen **desarrollo web, bases de datos, autenticación, integración de módulos y pruebas funcionales**.
-
 ## Proyectos
 
 <p>
@@ -42,7 +43,8 @@ Mis áreas de interés incluyen **desarrollo web, bases de datos, autenticación
   <a href="#investigación-educativa"><img src="./assets/research.svg" width="49%" alt="Software para investigación educativa: conocer mi participación en el equipo." /></a>
 </p>
 
-### Calendario académico dinámico
+<details>
+<summary><b>01 · Calendario académico — funcionalidades y demostración</b></summary>
 
 Herramienta web para organizar actividades académicas, consultar el calendario mensual y llevar un seguimiento de tareas pendientes y completadas.
 
@@ -50,8 +52,7 @@ Herramienta web para organizar actividades académicas, consultar el calendario 
 
 [Ver código ↗](https://github.com/karenxcruz/Calendario-Dinamico) · [Abrir aplicación ↗](https://calendario-dinamico.onrender.com)
 
-<details>
-<summary><b>Explorar funcionalidades</b></summary>
+
 
 - Navegación por meses y actividades identificadas por colores.
 - Consulta de tareas al seleccionar un día.
@@ -61,14 +62,16 @@ Herramienta web para organizar actividades académicas, consultar el calendario 
 
 </details>
 
-### Investigación educativa
+<a id="investigación-educativa"></a>
+
+<details>
+<summary><b>02 · Investigación educativa — mi aporte al equipo</b></summary>
 
 Participación como **integrante del equipo de desarrollo de software** en una plataforma web de apoyo a una investigación doctoral.
 
 **Python · HTML · CSS · JavaScript · Firebase · Render**
 
-<details>
-<summary><b>Explorar mi aporte al proyecto</b></summary>
+
 
 - Desarrollo e integración del módulo de evaluación NAJP.
 - Implementación y mejora del inicio de sesión y el acceso por roles.
@@ -92,17 +95,15 @@ Iré incorporando casos, capturas y repositorios a medida que los documente para
 
 </details>
 
-## Formación
+## Formación y próximos proyectos
 
-**Tecnología en Desarrollo de Software**  
-Universidad Surcolombiana · Graduada en 2026
+<p align="center">
+<a href="https://github.com/karenxcruz?tab=repositories"><img src="./assets/next.svg" width="100%" alt="Tecnóloga en Desarrollo de Software. Universidad Surcolombiana, graduada en 2026. Explora mis proyectos y sigue lo que voy construyendo." /></a>
+</p>
 
-## Conectemos
+<a id="conectemos"></a>
 
-Me interesa conectar con personas y equipos que construyan soluciones útiles, compartir lo que voy creando y explorar oportunidades de colaboración y desarrollo profesional.
-
-[Explora mis repositorios ↗](https://github.com/karenxcruz?tab=repositories)
-
----
-
-<p align="center"><sub>Aprender, construir y mejorar. Un proyecto a la vez.</sub></p>
+<p align="center">
+<b>Abierta a conectar, colaborar y seguir creciendo.</b><br/>
+<a href="https://github.com/karenxcruz?tab=repositories">Explorar mis repositorios ↗</a>
+</p>
