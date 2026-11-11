@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="64" viewBox="0 0 200 64" role="img" aria-label="Tecnologías"><title>Tecnologías</title>
+<defs><linearGradient id="panel" x2="1" y2="1"><stop stop-color="#29233e"/><stop offset="1" stop-color="#171c2b"/></linearGradient><linearGradient id="edge" x2="1" y2="1"><stop stop-color="#85efd0"/><stop offset=".6" stop-color="#65547e"/><stop offset="1" stop-color="#85efd0"/></linearGradient></defs>
+<rect x="2" y="4" width="196" height="56" rx="18" fill="url(#panel)" stroke="url(#edge)" stroke-width="1.5"/>
+<rect x="8" y="10" width="184" height="44" rx="13" fill="none" stroke="#85efd0" stroke-opacity=".08"/>
+<circle cx="24" cy="32" r="12" fill="#85efd0" fill-opacity=".12"/>
+<path d="M24 24 26 30 32 32 26 34 24 40 22 34 16 32 22 30Z" fill="#85efd0"/>
+<text x="44" y="38" fill="#f4f1ff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600">Tecnologías</text>
+<path d="M179 28 183 32 179 36" fill="none" stroke="#85efd0" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

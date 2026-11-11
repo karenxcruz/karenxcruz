@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="#mi-universo">Sobre mí</a> ·
-  <a href="#tecnologías">Tecnologías</a> ·
-  <a href="#proyectos-en-órbita">Proyectos en órbita</a> ·
-  <a href="#conectemos">Conectemos</a>
+  <a href="#mi-universo"><img src="./assets/nav-universo.svg" width="156" height="50" alt="Mi universo" /></a>
+  <a href="#tecnologías"><img src="./assets/nav-tecnologias.svg" width="156" height="50" alt="Tecnologías" /></a>
+  <a href="#proyectos-en-órbita"><img src="./assets/nav-proyectos.svg" width="156" height="50" alt="Proyectos" /></a>
+  <a href="#conectemos"><img src="./assets/nav-conectemos.svg" width="156" height="50" alt="Conectemos" /></a>
 </p>
 
 ## Mi universo
