@@ -21,3 +21,7 @@ Los badges dependen de Shields.io; los recursos visuales principales están en e
 
 ## Futuro portafolio
 Cuando exista una URL publicada, añádela a la navegación y a Conectemos.
+
+
+## Universo creativo + Bento neón
+El banner actual es assets/banner-universo.gif, con órbitas y estrellas. assets/banner-universo.png es la alternativa estática para movimiento reducido. El script de generación está en scripts/generate-banner.py; usa Pillow y las fuentes Arial de Windows. El banner.svg anterior se conserva como versión previa.

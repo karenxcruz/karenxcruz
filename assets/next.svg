@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="216" viewBox="0 0 960 216" role="img" aria-label="Formación y proyectos"><title>Formación en software y nuevos proyectos</title>
 <style>text{font-family:Arial,Helvetica,sans-serif}</style>
-<rect x="1" y="1" width="600" height="214" rx="24" fill="#191b2c" stroke="#39374d"/>
+<rect x="1" y="1" width="600" height="214" rx="24" fill="#1c1a30" stroke="#39374d"/>
 <rect x="617" y="1" width="342" height="214" rx="24" fill="#b9a0ff"/>
 <text x="29" y="39" fill="#b9a0ff" font-size="16" font-weight="700" letter-spacing="3">FORMACIÓN / USCO</text>
 <text x="29" y="90" fill="#f5f3ff" font-size="30" font-weight="700">Tecnología en</text>
 <text x="29" y="128" fill="#f5f3ff" font-size="30" font-weight="700">Desarrollo de Software</text>
 <text x="29" y="174" fill="#b7bfd1" font-size="19">Universidad Surcolombiana · Graduada en 2026</text>
-<text x="645" y="39" fill="#332348" font-size="16" font-weight="700" letter-spacing="2">EN CONSTRUCCIÓN</text>
-<text x="645" y="90" fill="#1c132d" font-size="30" font-weight="700">Más ideas.</text>
-<text x="645" y="128" fill="#1c132d" font-size="30" font-weight="700">Más proyectos.</text>
-<text x="645" y="180" fill="#332348" font-size="19" font-weight="700">Sigue lo que voy creando ↗</text>
+<text x="645" y="39" fill="#332348" font-size="16" font-weight="700" letter-spacing="2">PRÓXIMA ÓRBITA</text>
+<text x="645" y="90" fill="#1c132d" font-size="30" font-weight="700">Nuevas ideas.</text>
+<text x="645" y="128" fill="#1c132d" font-size="30" font-weight="700">Más conexiones.</text>
+<text x="645" y="180" fill="#332348" font-size="19" font-weight="700">Explora mis proyectos ↗</text>
 </svg>

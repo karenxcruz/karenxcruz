@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="288" viewBox="0 0 480 288" role="img" aria-label="Calendario académico dinámico · HTML, CSS y JavaScript · Ver código">
-<title>Calendario académico dinámico · HTML, CSS y JavaScript · Ver código</title><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#191b2c"/><stop offset="1" stop-color="#0e111a"/></linearGradient><linearGradient id="accent"><stop stop-color="#b9a0ff"/><stop offset="1" stop-color="#78efd2"/></linearGradient></defs>
+<title>Calendario académico dinámico · HTML, CSS y JavaScript · Ver código</title><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#1c1a30"/><stop offset="1" stop-color="#0e111a"/></linearGradient><linearGradient id="accent"><stop stop-color="#b9a0ff"/><stop offset="1" stop-color="#78efd2"/></linearGradient></defs>
 <style>text{font-family:Arial,Helvetica,sans-serif} .muted{fill:#aeb5cb}.label{font-size:16px;font-weight:700;letter-spacing:3px}.line{stroke:#30364a;stroke-width:1} .flow{stroke-dasharray:8 18;animation:flow 8s linear infinite}@keyframes flow{to{stroke-dashoffset:-104}} .float{animation:float 6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes float{50%{transform:translateY(-7px)}} @media(prefers-reduced-motion:reduce){.flow,.float{animation:none}}</style>
 <rect x="1" y="1" width="478" height="286" rx="22" fill="url(#bg)" stroke="#363d53"/>
-<text x="27" y="38" class="label" fill="#b9a0ff">01 / PROYECTO WEB</text>
+<text x="27" y="38" class="label" fill="#b9a0ff">01 / MISIÓN: ORGANIZAR</text>
 <rect x="356" y="58" width="94" height="90" rx="12" fill="#282440" stroke="#5f527d"/>
 <path d="M356 84H450M377 52V65M429 52V65" fill="none" stroke="#b9a0ff" stroke-width="3"/>
 <rect x="372" y="100" width="15" height="13" rx="3" fill="#78efd2"/><rect x="395" y="100" width="15" height="13" rx="3" fill="#b9a0ff"/><rect x="418" y="100" width="15" height="13" rx="3" fill="#f4bb84"/>

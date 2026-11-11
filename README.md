@@ -1,16 +1,19 @@
 <!-- Perfil público de karenxcruz. Recursos visuales alojados en este repositorio. -->
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Hola, soy Karen Ximena Cruz Guzmán. Desarrolladora de software con enfoque full stack: interfaces, lógica y datos." />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/banner-universo.png" />
+    <img src="./assets/banner-universo.gif" width="100%" alt="Karen Ximena Cruz Guzmán. Enfoque full stack. Pequeñas ideas, grandes conexiones. Planeta de código con tecnologías en órbita." />
+  </picture>
 </p>
 
 <p align="center">
-  <a href="#sobre-mí">Sobre mí</a> ·
+  <a href="#mi-universo">Sobre mí</a> ·
   <a href="#tecnologías">Tecnologías</a> ·
-  <a href="#proyectos">Proyectos</a> ·
+  <a href="#proyectos-en-órbita">Proyectos en órbita</a> ·
   <a href="#conectemos">Conectemos</a>
 </p>
 
-## Sobre mí
+## Mi universo
 
 **Desarrolladora de software con enfoque full stack.** Me gusta conectar interfaces, lógica y datos para resolver necesidades reales.
 
@@ -36,7 +39,7 @@ Soy tecnóloga en Desarrollo de Software de la Universidad Surcolombiana, gradua
   <img src="https://img.shields.io/badge/Render-191b2c?style=for-the-badge&amp;logo=render&amp;logoColor=78efd2" alt="Render" />
 </p>
 
-## Proyectos
+## Proyectos en órbita
 
 <p>
   <a href="https://github.com/karenxcruz/Calendario-Dinamico"><img src="./assets/calendar.svg" width="49%" alt="Calendario académico dinámico: abrir repositorio con el código." /></a>
@@ -107,3 +110,4 @@ Iré incorporando casos, capturas y repositorios a medida que los documente para
 <b>Abierta a conectar, colaborar y seguir creciendo.</b><br/>
 <a href="https://github.com/karenxcruz?tab=repositories">Explorar mis repositorios ↗</a>
 </p>
+
