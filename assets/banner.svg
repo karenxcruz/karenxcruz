@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-label="Karen Ximena Cruz Guzmán · Desarrolladora de software con enfoque full stack">
+<title>Karen Ximena Cruz Guzmán · Desarrolladora de software con enfoque full stack</title><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#191b2c"/><stop offset="1" stop-color="#0e111a"/></linearGradient><linearGradient id="accent"><stop stop-color="#b9a0ff"/><stop offset="1" stop-color="#78efd2"/></linearGradient></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif} .muted{fill:#aeb5cb}.label{font-size:16px;font-weight:700;letter-spacing:3px}.line{stroke:#30364a;stroke-width:1} .flow{stroke-dasharray:8 18;animation:flow 8s linear infinite}@keyframes flow{to{stroke-dashoffset:-104}} .float{animation:float 6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes float{50%{transform:translateY(-7px)}} @media(prefers-reduced-motion:reduce){.flow,.float{animation:none}}</style>
+<rect x="1" y="1" width="958" height="338" rx="26" fill="url(#bg)" stroke="#30364a"/>
+<path d="M630 1H933Q959 1 959 27V313Q959 339 933 339H630Z" fill="#211d38"/>
+<circle cx="804" cy="170" r="121" fill="none" stroke="#534375" stroke-width="1"/>
+<circle cx="804" cy="170" r="97" fill="none" stroke="#665387" stroke-width="1" stroke-dasharray="3 10"/>
+<text x="40" y="46" fill="#bdabfa" class="label">KARENXCRUZ / DEVELOPER</text>
+<text x="38" y="119" fill="#f5f3ff" font-size="62" font-weight="700" letter-spacing="-2">Karen Ximena</text>
+<text x="38" y="185" fill="#f5f3ff" font-size="62" font-weight="700" letter-spacing="-2">Cruz Guzmán.</text>
+<rect x="40" y="210" width="224" height="36" rx="18" fill="#b9a0ff"/>
+<text x="59" y="234" fill="#191329" font-size="17" font-weight="700">ENFOQUE FULL STACK</text>
+<text x="40" y="284" fill="#d3d7e6" font-size="21">Interfaces, lógica y datos.</text>
+<text x="40" y="313" class="muted" font-size="18">Conectados para crear soluciones útiles.</text>
+<g class="float"><rect x="702" y="103" width="202" height="148" rx="18" fill="#111520" stroke="#79639f"/>
+<circle cx="722" cy="123" r="4" fill="#b9a0ff"/><circle cx="737" cy="123" r="4" fill="#78efd2"/><circle cx="752" cy="123" r="4" fill="#ffc68b"/>
+<path d="m757 159-22 19 22 19m94-38 22 19-22 19m-35-48-20 60" fill="none" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="740" y="232" fill="#aeb5cb" font-size="15" letter-spacing="2">IDEA → CÓDIGO</text></g>
+<path class="flow" d="M651 295H934" stroke="#78efd2" fill="none" stroke-width="2"/>
+</svg>

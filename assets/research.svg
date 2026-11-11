@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="288" viewBox="0 0 480 288" role="img" aria-label="Software para investigación educativa · Mi aporte al equipo">
+<title>Software para investigación educativa · Mi aporte al equipo</title><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#191b2c"/><stop offset="1" stop-color="#0e111a"/></linearGradient><linearGradient id="accent"><stop stop-color="#b9a0ff"/><stop offset="1" stop-color="#78efd2"/></linearGradient></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif} .muted{fill:#aeb5cb}.label{font-size:16px;font-weight:700;letter-spacing:3px}.line{stroke:#30364a;stroke-width:1} .flow{stroke-dasharray:8 18;animation:flow 8s linear infinite}@keyframes flow{to{stroke-dashoffset:-104}} .float{animation:float 6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes float{50%{transform:translateY(-7px)}} @media(prefers-reduced-motion:reduce){.flow,.float{animation:none}}</style>
+<rect x="1" y="1" width="478" height="286" rx="22" fill="url(#bg)" stroke="#363d53"/>
+<text x="27" y="38" class="label" fill="#78efd2">02 / TRABAJO EN EQUIPO</text>
+<g fill="#15342d" stroke="#78efd2" stroke-width="2"><circle cx="400" cy="99" r="18"/><circle cx="355" cy="67" r="7"/><circle cx="443" cy="62" r="7"/><circle cx="443" cy="138" r="7"/></g>
+<path d="m382 86-21-15m54 15 22-19m-22 46 22 20" stroke="#78efd2" fill="none" stroke-width="2" class="flow"/>
+<text x="27" y="92" fill="#f5f3ff" font-size="31" font-weight="700">Software para</text>
+<text x="27" y="130" fill="#f5f3ff" font-size="31" font-weight="700">investigación.</text>
+<text x="27" y="176" class="muted" font-size="19">Evaluaciones digitales y acceso por rol.</text>
+<text x="27" y="209" fill="#a3d9cb" font-size="16">Desarrollo · Integración · Pruebas</text>
+<path d="M27 233H453" class="line"/>
+<text x="27" y="265" fill="#78efd2" font-size="18" font-weight="700">CONOCE MI APORTE ↓</text>
+</svg>
